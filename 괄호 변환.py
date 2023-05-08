@@ -40,7 +40,6 @@ def recursive(w, counter_list):
             if is_good(u_list):
                 return(u + recursive(v, v_list))
             else:
-                print("fuck")
                 temp = "(" + recursive(v, v_list) +")"
                 print("temp:",temp)
                 translate_table = str.maketrans('()', ')(')
