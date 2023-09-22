@@ -15,6 +15,9 @@
 
 ### 탐욕법
 
+### dp
+[소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+
 ### 그외
 
 [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
