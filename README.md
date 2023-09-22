@@ -28,3 +28,5 @@
 
 [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585#)
 
+### 수식으로 푼것들
+[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
